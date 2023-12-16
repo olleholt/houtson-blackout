@@ -1,5 +1,4 @@
 # houtson-blackout
-for eds223 final proj
 
 ## Problem Statement
 
